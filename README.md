@@ -6,7 +6,7 @@ Running requires Java 8.
 Start with 
 
 ```
-mvn exec:java -Dexec.mainClass="cz.it4i.scijava.RunImageJ" -Dexec.classpathScope="test"
+mvn exec:java -Dexec.mainClass="cz.it4i.scijava.RunImageJ"
 ```
 Note: There is not fully functional labkit on HPC when executing in platform started by maven. It is know issue but without solution. 
 
