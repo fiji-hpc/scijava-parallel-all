@@ -55,6 +55,11 @@
 			<version>0.0.1-RC-1</version>
 		</dependency>
 		<dependency>
+			<groupId>org.scijava</groupId>
+			<artifactId>runners-logging-ui</artifactId>
+			<version>0.0.1-RC-1</version>
+		</dependency>
+		<dependency>
 			<groupId>net.imglib2</groupId>
 			<artifactId>imglib2-labkit-cluster</artifactId>
 			<version>0.1.0-RC-1</version>
