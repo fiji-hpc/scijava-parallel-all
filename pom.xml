@@ -69,6 +69,11 @@
 			<artifactId>utilization-monitor</artifactId>
 			<version>0.3.0-SNAPSHOT</version>
 		</dependency>
+		<dependency>
+			<groupId>cz.it4i.fiji</groupId>
+			<artifactId>hpc-workflow-manager-client</artifactId>
+			<version>1.1.3-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 	<repositories>
 		<repository>
